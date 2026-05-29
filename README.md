@@ -1,5 +1,3 @@
-# Technical-Assignment
-
 # Timeless Watches — Product Page
 
 A single-file e-commerce product page built with HTML, CSS, and vanilla JS.
